@@ -6,6 +6,7 @@ module.exports = {
         fontFamily: {
           play: ['Play', 'sans-serif'],
           mono: ['Oxygen mono', 'monospace'],
+          pashto: ['Noto Sans Arabic']
         },
       },
     },
